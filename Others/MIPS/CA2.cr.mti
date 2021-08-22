@@ -1,0 +1,71 @@
+{E:/homework/comp arch/assignmet2-810196457-810196409/instrusctionMemory.v} {1 {vlog -work work {E:/homework/comp arch/assignmet2-810196457-810196409/instrusctionMemory.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module instructionMemory
+
+Top level modules:
+	instructionMemory
+
+} {} {}} {E:/homework/comp arch/assignmet2-810196457-810196409/ALU.v} {1 {vlog -work work {E:/homework/comp arch/assignmet2-810196457-810196409/ALU.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} {E:/homework/comp arch/assignmet2-810196457-810196409/ALUtest.v} {1 {vlog -work work {E:/homework/comp arch/assignmet2-810196457-810196409/ALUtest.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ALUtest
+
+Top level modules:
+	ALUtest
+
+} {} {}} {E:/homework/comp arch/assignmet2-810196457-810196409/ALUcontroller.v} {1 {vlog -work work {E:/homework/comp arch/assignmet2-810196457-810196409/ALUcontroller.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ALUcontroller
+
+Top level modules:
+	ALUcontroller
+
+} {} {}} {E:/homework/comp arch/assignmet2-810196457-810196409/dataPath.v} {1 {vlog -work work {E:/homework/comp arch/assignmet2-810196457-810196409/dataPath.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module dataPath
+
+Top level modules:
+	dataPath
+
+} {} {}} {E:/homework/comp arch/assignmet2-810196457-810196409/DataMemory.v} {1 {vlog -work work {E:/homework/comp arch/assignmet2-810196457-810196409/DataMemory.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module DataMemory
+
+Top level modules:
+	DataMemory
+
+} {} {}} {E:/homework/comp arch/assignmet2-810196457-810196409/testbench.v} {1 {vlog -work work {E:/homework/comp arch/assignmet2-810196457-810196409/testbench.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module testbench
+
+Top level modules:
+	testbench
+
+} {} {}} {E:/homework/comp arch/assignmet2-810196457-810196409/controller.v} {1 {vlog -work work {E:/homework/comp arch/assignmet2-810196457-810196409/controller.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module controller
+
+Top level modules:
+	controller
+
+} {} {}} {E:/homework/comp arch/assignmet2-810196457-810196409/RegisterFile.v} {1 {vlog -work work {E:/homework/comp arch/assignmet2-810196457-810196409/RegisterFile.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module RegisterFile
+
+Top level modules:
+	RegisterFile
+
+} {} {}} {E:/homework/comp arch/assignmet2-810196457-810196409/MIPS.v} {1 {vlog -work work {E:/homework/comp arch/assignmet2-810196457-810196409/MIPS.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MIPS
+
+Top level modules:
+	MIPS
+
+} {} {}}

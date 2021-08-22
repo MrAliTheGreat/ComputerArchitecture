@@ -1,0 +1,105 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\mehdi\Documents\memari\MIPS-pipeline
+vCache
+Z1 !s100 ;bmNXzOB0>;8_lKOeEo`@0
+Z2 IQQSaCIi]6NEDTMWWN@8BC0
+Z3 V9=9VjL90BacZ2F=g@ZkSJ3
+Z4 dC:\Users\mehdi\Documents\memari\CA5
+Z5 w1560259095
+Z6 8C:/Users/mehdi/Documents/memari/CA5/CACHE.v
+Z7 FC:/Users/mehdi/Documents/memari/CA5/CACHE.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/mehdi/Documents/memari/CA5/CACHE.v|
+Z10 o-work work -O0
+Z11 n@cache
+Z12 !s108 1560259785.132000
+Z13 !s107 C:/Users/mehdi/Documents/memari/CA5/CACHE.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vController
+Z14 I?XB_2gnB3:3PC3]eSZeFW2
+Z15 V:EGnhBL1TQd>h7iHdcbE<3
+R4
+Z16 w1560259746
+Z17 8C:/Users/mehdi/Documents/memari/CA5/CONTROLLER.v
+Z18 FC:/Users/mehdi/Documents/memari/CA5/CONTROLLER.v
+L0 1
+R8
+r1
+31
+Z19 !s90 -reportprogress|300|-work|work|C:/Users/mehdi/Documents/memari/CA5/CONTROLLER.v|
+R10
+Z20 n@controller
+Z21 !s100 K9U8eZZ`6N09_cDTg?SC83
+Z22 !s108 1560259785.210000
+Z23 !s107 C:/Users/mehdi/Documents/memari/CA5/CONTROLLER.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMainMemory
+Z24 !s100 K`ShjJQ[UfGOL9TUb>JHZ0
+Z25 IU^J88Wd_GIb@3C>?3cZj81
+Z26 VUD8BGL7nJS0NL>KXQz85?1
+R4
+Z27 w1560248169
+Z28 8C:/Users/mehdi/Documents/memari/CA5/MAINMEM.v
+Z29 FC:/Users/mehdi/Documents/memari/CA5/MAINMEM.v
+L0 1
+R8
+r1
+31
+Z30 !s90 -reportprogress|300|-work|work|C:/Users/mehdi/Documents/memari/CA5/MAINMEM.v|
+R10
+Z31 n@main@memory
+Z32 !s108 1560259785.057000
+Z33 !s107 C:/Users/mehdi/Documents/memari/CA5/MAINMEM.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vTestBench
+!i10b 1
+!s100 j`[FI_akKak>TT?5WCX793
+IhHMHBzO:@cZ6lg@OV@O;=3
+Z34 VH;VS]59WmQ>4a<zRibM9Z0
+R4
+w1560259782
+Z35 8C:/Users/mehdi/Documents/memari/CA5/TB.v
+Z36 FC:/Users/mehdi/Documents/memari/CA5/TB.v
+L0 1
+R8
+r1
+!s85 0
+31
+!s108 1560259785.380000
+!s107 C:/Users/mehdi/Documents/memari/CA5/TB.v|
+Z37 !s90 -reportprogress|300|-work|work|C:/Users/mehdi/Documents/memari/CA5/TB.v|
+!s101 -O0
+R10
+Z38 n@test@bench
+vTotal
+Z39 I?0P>kQ5A0n>@8EidRW2R@2
+Z40 VDj_37HWcMEUAEnV6[<57`1
+R4
+Z41 w1560259765
+Z42 8C:/Users/mehdi/Documents/memari/CA5/TOTAL.v
+Z43 FC:/Users/mehdi/Documents/memari/CA5/TOTAL.v
+L0 1
+R8
+r1
+31
+Z44 !s90 -reportprogress|300|-work|work|C:/Users/mehdi/Documents/memari/CA5/TOTAL.v|
+R10
+Z45 n@total
+!i10b 1
+Z46 !s100 K0;Th=RdjXT8Bh2ZCzkCD3
+!s85 0
+Z47 !s108 1560259785.296000
+Z48 !s107 C:/Users/mehdi/Documents/memari/CA5/TOTAL.v|
+!s101 -O0

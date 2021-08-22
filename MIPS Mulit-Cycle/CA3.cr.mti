@@ -1,0 +1,71 @@
+C:/Users/rasou/Desktop/CA/Projects/CA3/DataPath.v {1 {vlog -work work C:/Users/rasou/Desktop/CA/Projects/CA3/DataPath.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Datapath
+
+Top level modules:
+	Datapath
+
+} {} {}} C:/Users/rasou/Desktop/CA/Projects/CA3/IR_Register.v {1 {vlog -work work C:/Users/rasou/Desktop/CA/Projects/CA3/IR_Register.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module IR_Register
+
+Top level modules:
+	IR_Register
+
+} {} {}} C:/Users/rasou/Desktop/CA/Projects/CA3/MIPS_Processor.v {1 {vlog -work work C:/Users/rasou/Desktop/CA/Projects/CA3/MIPS_Processor.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MIPS_Processor
+
+Top level modules:
+	MIPS_Processor
+
+} {} {}} C:/Users/rasou/Desktop/CA/Projects/CA3/Controller.v {1 {vlog -work work C:/Users/rasou/Desktop/CA/Projects/CA3/Controller.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Controller
+
+Top level modules:
+	Controller
+
+} {} {}} C:/Users/rasou/Desktop/CA/Projects/CA3/TestBench.v {1 {vlog -work work C:/Users/rasou/Desktop/CA/Projects/CA3/TestBench.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module TestBench
+
+Top level modules:
+	TestBench
+
+} {} {}} C:/Users/rasou/Desktop/CA/Projects/CA3/Memory.v {1 {vlog -work work C:/Users/rasou/Desktop/CA/Projects/CA3/Memory.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Memory
+
+Top level modules:
+	Memory
+
+} {} {}} C:/Users/rasou/Desktop/CA/Projects/CA3/Register.v {1 {vlog -work work C:/Users/rasou/Desktop/CA/Projects/CA3/Register.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Register
+
+Top level modules:
+	Register
+
+} {} {}} C:/Users/rasou/Desktop/CA/Projects/CA3/RegisterFile.v {1 {vlog -work work C:/Users/rasou/Desktop/CA/Projects/CA3/RegisterFile.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module RegisterFile
+
+Top level modules:
+	RegisterFile
+
+} {} {}} C:/Users/rasou/Desktop/CA/Projects/CA3/ALU_Controller.v {1 {vlog -work work C:/Users/rasou/Desktop/CA/Projects/CA3/ALU_Controller.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ALUcontroller
+
+Top level modules:
+	ALUcontroller
+
+} {} {}} C:/Users/rasou/Desktop/CA/Projects/CA3/ALU.v {1 {vlog -work work C:/Users/rasou/Desktop/CA/Projects/CA3/ALU.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}}

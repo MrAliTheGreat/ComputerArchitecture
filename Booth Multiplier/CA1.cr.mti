@@ -1,0 +1,63 @@
+C:/Users/rasou/Desktop/CA/Projects/CA1/Shift_register_12_bit.v {1 {vlog -work work C:/Users/rasou/Desktop/CA/Projects/CA1/Shift_register_12_bit.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Shift_register_12_bit
+
+Top level modules:
+	Shift_register_12_bit
+
+} {} {}} C:/Users/rasou/Desktop/CA/Projects/CA1/Adder_6_bit.v {1 {vlog -work work C:/Users/rasou/Desktop/CA/Projects/CA1/Adder_6_bit.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Adder_6_bit
+
+Top level modules:
+	Adder_6_bit
+
+} {} {}} C:/Users/rasou/Desktop/CA/Projects/CA1/Circuit.v {1 {vlog -work work C:/Users/rasou/Desktop/CA/Projects/CA1/Circuit.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Circuit
+
+Top level modules:
+	Circuit
+
+} {} {}} C:/Users/rasou/Desktop/CA/Projects/CA1/Datapath.v {1 {vlog -work work C:/Users/rasou/Desktop/CA/Projects/CA1/Datapath.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Datapath
+
+Top level modules:
+	Datapath
+
+} {} {}} C:/Users/rasou/Desktop/CA/Projects/CA1/Register_6_multiplier.v {1 {vlog -work work C:/Users/rasou/Desktop/CA/Projects/CA1/Register_6_multiplier.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Register_6_multiplier
+
+Top level modules:
+	Register_6_multiplier
+
+} {} {}} C:/Users/rasou/Desktop/CA/Projects/CA1/Register_6_bit.v {1 {vlog -work work C:/Users/rasou/Desktop/CA/Projects/CA1/Register_6_bit.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Register_6_bit
+
+Top level modules:
+	Register_6_bit
+
+} {} {}} C:/Users/rasou/Desktop/CA/Projects/CA1/Controller.v {1 {vlog -work work C:/Users/rasou/Desktop/CA/Projects/CA1/Controller.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Controller
+
+Top level modules:
+	Controller
+
+} {} {}} C:/Users/rasou/Desktop/CA/Projects/CA1/TestBench.v {1 {vlog -work work C:/Users/rasou/Desktop/CA/Projects/CA1/TestBench.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module TestBench
+-- Compiling module TestBench_Controller
+-- Compiling module TestBench_DataPath
+-- Compiling module TestBench_12_bit
+
+Top level modules:
+	TestBench
+	TestBench_Controller
+	TestBench_DataPath
+	TestBench_12_bit
+
+} {} {}}

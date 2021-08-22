@@ -1,0 +1,43 @@
+C:/Users/rasou/Desktop/CA/Projects/CA5/Main_Memory.v {1 {vlog -work work C:/Users/rasou/Desktop/CA/Projects/CA5/Main_Memory.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MainMemory
+
+Top level modules:
+	MainMemory
+
+} {} {}} C:/Users/rasou/Desktop/CA/Projects/CA5/Cache_mainMem_Connection.v {1 {vlog -work work C:/Users/rasou/Desktop/CA/Projects/CA5/Cache_mainMem_Connection.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module allMemories
+
+Top level modules:
+	allMemories
+
+} {} {}} C:/Users/rasou/Desktop/CA/Projects/CA5/Circuit.v {1 {vlog -work work C:/Users/rasou/Desktop/CA/Projects/CA5/Circuit.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Circuit
+
+Top level modules:
+	Circuit
+
+} {} {}} C:/Users/rasou/Desktop/CA/Projects/CA5/Cache.v {1 {vlog -work work C:/Users/rasou/Desktop/CA/Projects/CA5/Cache.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Cache
+
+Top level modules:
+	Cache
+
+} {} {}} C:/Users/rasou/Desktop/CA/Projects/CA5/Controller.v {1 {vlog -work work C:/Users/rasou/Desktop/CA/Projects/CA5/Controller.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Controller
+
+Top level modules:
+	Controller
+
+} {} {}} C:/Users/rasou/Desktop/CA/Projects/CA5/TestBench.v {1 {vlog -work work C:/Users/rasou/Desktop/CA/Projects/CA5/TestBench.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module TestBench
+
+Top level modules:
+	TestBench
+
+} {} {}}

@@ -1,0 +1,125 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\rasou\Desktop\TEST
+vallMemories
+Z1 !s100 ZQO8fm_9F4OHThaHE?ok92
+Z2 IonD<m:1Ke?bb]kC?:c2z72
+Z3 V:e6mO^dzme6Xl_JPX51Z^1
+Z4 dC:\Users\rasou\Desktop\CA\Projects\CA5
+Z5 w1596707984
+Z6 8C:/Users/rasou/Desktop/CA/Projects/CA5/Cache_mainMem_Connection.v
+Z7 FC:/Users/rasou/Desktop/CA/Projects/CA5/Cache_mainMem_Connection.v
+L0 2
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/rasou/Desktop/CA/Projects/CA5/Cache_mainMem_Connection.v|
+Z10 o-work work -O0
+Z11 nall@memories
+Z12 !s108 1596708297.260000
+Z13 !s107 C:/Users/rasou/Desktop/CA/Projects/CA5/Cache_mainMem_Connection.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vCache
+Z14 !s100 XmobhDk>=2aUQ9>n2[?>I2
+Z15 IgC4mg]5PGD@^BJBfF::D[2
+Z16 VEYXL<L``QNWoMMJ[=gK1L3
+R4
+Z17 w1596708104
+Z18 8C:/Users/rasou/Desktop/CA/Projects/CA5/Cache.v
+Z19 FC:/Users/rasou/Desktop/CA/Projects/CA5/Cache.v
+L0 2
+R8
+r1
+31
+Z20 !s90 -reportprogress|300|-work|work|C:/Users/rasou/Desktop/CA/Projects/CA5/Cache.v|
+R10
+Z21 n@cache
+Z22 !s108 1596708296.966000
+Z23 !s107 C:/Users/rasou/Desktop/CA/Projects/CA5/Cache.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vCircuit
+Z24 !s100 1n?1XmDdUhOc1;ocaTEeU2
+Z25 IT9f9kelAD3hR[HU<NUPOQ0
+Z26 VbO2n0`c9KS??[L9DJVMzm0
+R4
+Z27 w1596708002
+Z28 8C:/Users/rasou/Desktop/CA/Projects/CA5/Circuit.v
+Z29 FC:/Users/rasou/Desktop/CA/Projects/CA5/Circuit.v
+L0 2
+R8
+r1
+31
+Z30 !s90 -reportprogress|300|-work|work|C:/Users/rasou/Desktop/CA/Projects/CA5/Circuit.v|
+R10
+Z31 n@circuit
+!i10b 1
+!s85 0
+Z32 !s108 1596708297.349000
+Z33 !s107 C:/Users/rasou/Desktop/CA/Projects/CA5/Circuit.v|
+!s101 -O0
+vController
+Z34 ICQ>]H0A2J8RcGAAXTi^a70
+Z35 V[TIgjbKVHCcRifMfTRdV[2
+R4
+Z36 w1596708220
+Z37 8C:/Users/rasou/Desktop/CA/Projects/CA5/Controller.v
+Z38 FC:/Users/rasou/Desktop/CA/Projects/CA5/Controller.v
+L0 2
+R8
+r1
+31
+Z39 !s90 -reportprogress|300|-work|work|C:/Users/rasou/Desktop/CA/Projects/CA5/Controller.v|
+R10
+Z40 n@controller
+Z41 !s100 ^L:CkdEi1N:5kmgd4;73:3
+Z42 !s108 1596708297.158000
+Z43 !s107 C:/Users/rasou/Desktop/CA/Projects/CA5/Controller.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMainMemory
+Z44 !s100 5>^o^B98Lb7hY6h8c=TEb3
+Z45 IcM?;geCkN:Fmaj68XUOBY1
+Z46 VCNI@7ABzaJl@D>Iz=XBCh0
+R4
+Z47 w1596707955
+Z48 8C:/Users/rasou/Desktop/CA/Projects/CA5/Main_Memory.v
+Z49 FC:/Users/rasou/Desktop/CA/Projects/CA5/Main_Memory.v
+L0 2
+R8
+r1
+31
+Z50 !s90 -reportprogress|300|-work|work|C:/Users/rasou/Desktop/CA/Projects/CA5/Main_Memory.v|
+R10
+Z51 n@main@memory
+Z52 !s108 1596708297.067000
+Z53 !s107 C:/Users/rasou/Desktop/CA/Projects/CA5/Main_Memory.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vTestBench
+!i10b 1
+!s100 YTo?n`LT_7Gan9Ml3BnlO2
+IcL8<@[]>9JYi<oZGCB5bZ1
+Z54 VH;VS]59WmQ>4a<zRibM9Z0
+R4
+w1596708282
+Z55 8C:/Users/rasou/Desktop/CA/Projects/CA5/TestBench.v
+Z56 FC:/Users/rasou/Desktop/CA/Projects/CA5/TestBench.v
+L0 2
+R8
+r1
+!s85 0
+31
+!s108 1596708297.439000
+!s107 C:/Users/rasou/Desktop/CA/Projects/CA5/TestBench.v|
+Z57 !s90 -reportprogress|300|-work|work|C:/Users/rasou/Desktop/CA/Projects/CA5/TestBench.v|
+!s101 -O0
+R10
+Z58 n@test@bench

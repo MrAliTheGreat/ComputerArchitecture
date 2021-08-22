@@ -1,0 +1,141 @@
+m255
+K3
+13
+cModel Technology
+Z0 dE:\homework\comp arch\assignmet2-810196457-810196409
+vaccCy
+Z1 !s100 z@ei0f8ic9lmEX;=EJjjc3
+Z2 IiMjg[oZc?3zh:LMQQnlN`0
+Z3 VJ2lU@P<]]4j1gZC;16=C^3
+Z4 dE:\homework\comp arch\assignmet3-810196457-810196409
+Z5 w1576590051
+Z6 8E:/homework/comp arch/assignmet3-810196457-810196409/acc&cy.v
+Z7 FE:/homework/comp arch/assignmet3-810196457-810196409/acc&cy.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|E:/homework/comp arch/assignmet3-810196457-810196409/acc&cy.v|
+Z10 o-work work -O0
+Z11 nacc@cy
+!i10b 1
+!s85 0
+Z12 !s108 1576987019.780000
+Z13 !s107 E:/homework/comp arch/assignmet3-810196457-810196409/acc&cy.v|
+!s101 -O0
+vALU
+Z14 !s100 fmcW9TkIUaCSJBj1oYMgU1
+Z15 I2YWI?VBI5a6J3RW=z^]F_2
+Z16 VlU_:An0IV;@XLY8TY_34d3
+R4
+Z17 w1576738601
+Z18 8E:/homework/comp arch/assignmet3-810196457-810196409/ALU.v
+Z19 FE:/homework/comp arch/assignmet3-810196457-810196409/ALU.v
+L0 1
+R8
+r1
+31
+Z20 !s90 -reportprogress|300|-work|work|E:/homework/comp arch/assignmet3-810196457-810196409/ALU.v|
+R10
+Z21 n@a@l@u
+Z22 !s108 1576987019.266000
+Z23 !s107 E:/homework/comp arch/assignmet3-810196457-810196409/ALU.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vcontroller
+Z24 !s100 `3?5e4DDCC:`TbOoW@0ia1
+Z25 IV_SITC92KI9@YaIlPkWYC2
+Z26 Vzm?Dk84OBHj8?BMg9NE6I2
+R4
+Z27 w1576752046
+Z28 8E:/homework/comp arch/assignmet3-810196457-810196409/controller.v
+Z29 FE:/homework/comp arch/assignmet3-810196457-810196409/controller.v
+L0 1
+R8
+r1
+31
+Z30 !s90 -reportprogress|300|-work|work|E:/homework/comp arch/assignmet3-810196457-810196409/controller.v|
+R10
+Z31 !s108 1576987018.388000
+Z32 !s107 E:/homework/comp arch/assignmet3-810196457-810196409/controller.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vdatapath
+Z33 !s100 ^Iok>=aL_SCoTb<MJLSec0
+Z34 I>Y0KABO@0[TX<OFO?0NU83
+Z35 V;9ToVY:fnCmdH;Wa^@1]I0
+R4
+Z36 w1576754122
+Z37 8E:/homework/comp arch/assignmet3-810196457-810196409/datapath.v
+Z38 FE:/homework/comp arch/assignmet3-810196457-810196409/datapath.v
+L0 1
+R8
+r1
+31
+Z39 !s90 -reportprogress|300|-work|work|E:/homework/comp arch/assignmet3-810196457-810196409/datapath.v|
+R10
+Z40 !s108 1576987018.878000
+Z41 !s107 E:/homework/comp arch/assignmet3-810196457-810196409/datapath.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmemory
+Z42 Ie>GTJIVZ`T@m=oG>OVBNT3
+Z43 V6dFaCV8eCI=QQUW<K::FM0
+R4
+Z44 w1576987016
+Z45 8E:/homework/comp arch/assignmet3-810196457-810196409/memory.v
+Z46 FE:/homework/comp arch/assignmet3-810196457-810196409/memory.v
+L0 1
+R8
+r1
+31
+Z47 !s90 -reportprogress|300|-work|work|E:/homework/comp arch/assignmet3-810196457-810196409/memory.v|
+R10
+Z48 !s100 EZXo0IK]l_N1ei:Bk=FbI1
+Z49 !s108 1576987019.574000
+Z50 !s107 E:/homework/comp arch/assignmet3-810196457-810196409/memory.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vPDP_8
+Z51 !s100 ];7UnWfGC4`Dbm?N_l^890
+Z52 IkgHKjSjN>CKjiUUY]AbI01
+Z53 V;IbARJmeQ_gA28S1G9NkQ3
+R4
+Z54 w1576338127
+Z55 8E:/homework/comp arch/assignmet3-810196457-810196409/PDP-8.v
+Z56 FE:/homework/comp arch/assignmet3-810196457-810196409/PDP-8.v
+L0 1
+R8
+r1
+31
+Z57 !s90 -reportprogress|300|-work|work|E:/homework/comp arch/assignmet3-810196457-810196409/PDP-8.v|
+R10
+Z58 n@p@d@p_8
+Z59 !s108 1576987019.061000
+Z60 !s107 E:/homework/comp arch/assignmet3-810196457-810196409/PDP-8.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vtest
+!i10b 1
+Z61 !s100 a9^>di[_ZkR1BkhabilU`3
+Z62 IhT=_0o=P41H7ANiH:Te=b0
+Z63 Vk<3<[f=78GX=_HO53D;7>3
+R4
+Z64 w1576751133
+Z65 8E:/homework/comp arch/assignmet3-810196457-810196409/test.v
+Z66 FE:/homework/comp arch/assignmet3-810196457-810196409/test.v
+L0 1
+R8
+r1
+!s85 0
+31
+!s108 1576987019.992000
+!s107 E:/homework/comp arch/assignmet3-810196457-810196409/test.v|
+Z67 !s90 -reportprogress|300|-work|work|E:/homework/comp arch/assignmet3-810196457-810196409/test.v|
+!s101 -O0
+R10

@@ -1,0 +1,257 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Asus\OneDrive\Uni\Fall 98\CA\CA3
+valu
+Z1 !s100 AB1;<`S@ZO4I4cTH`gEaX0
+Z2 IUYFO^mRF;nCjPNzB3_Bg;3
+Z3 V>SMhIA=dIObbgVj5i^Umz0
+Z4 dC:\Users\Asus\Desktop\CA4
+Z5 w1573901650
+Z6 8C:/Users/Asus/Desktop/CA4/ALU.v
+Z7 FC:/Users/Asus/Desktop/CA4/ALU.v
+L0 2
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/Asus/Desktop/CA4/ALU.v|
+Z10 o-work work -O0
+Z11 !s108 1578400450.453000
+Z12 !s107 C:/Users/Asus/Desktop/CA4/ALU.v|
+!i10b 1
+!s85 0
+!s101 -O0
+valu_control
+Z13 !s100 ?A;oKF;lBIU18fCD`hXTh0
+Z14 Ii66WJ]^IPfh3QZ:o5HJ:Q3
+Z15 Vz=33ma0I<WJJ2KKUzAC?R0
+R4
+Z16 w1574096038
+Z17 8C:/Users/Asus/Desktop/CA4/ALU Control.v
+Z18 FC:/Users/Asus/Desktop/CA4/ALU Control.v
+L0 2
+R8
+r1
+31
+Z19 !s90 -reportprogress|300|-work|work|C:/Users/Asus/Desktop/CA4/ALU Control.v|
+R10
+Z20 !s108 1578400450.329000
+Z21 !s107 C:/Users/Asus/Desktop/CA4/ALU Control.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vcontroller
+Z22 !s100 Lb?hAIgOWd8@QL01^7LEC1
+Z23 I4@_ZTo]o_ACH_`PWcDcPb3
+Z24 VXkXP4fL9H5mUTe<aQ7iI51
+R4
+Z25 w1577437367
+Z26 8C:/Users/Asus/Desktop/CA4/Controller.v
+Z27 FC:/Users/Asus/Desktop/CA4/Controller.v
+L0 2
+R8
+r1
+31
+Z28 !s90 -reportprogress|300|-work|work|C:/Users/Asus/Desktop/CA4/Controller.v|
+R10
+Z29 !s108 1578400450.955000
+Z30 !s107 C:/Users/Asus/Desktop/CA4/Controller.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vdata_memory
+Z31 !s100 ;VL82mWRz=9]<KHg14nOf1
+Z32 I<9cO1cDJGIT>CQUTVCB243
+Z33 VDRRN9dRdb@PCPRABeAcAh1
+R4
+Z34 w1578094280
+Z35 8C:/Users/Asus/Desktop/CA4/Data Memory.v
+Z36 FC:/Users/Asus/Desktop/CA4/Data Memory.v
+L0 2
+R8
+r1
+31
+Z37 !s90 -reportprogress|300|-work|work|C:/Users/Asus/Desktop/CA4/Data Memory.v|
+R10
+Z38 !s108 1578400450.623000
+Z39 !s107 C:/Users/Asus/Desktop/CA4/Data Memory.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vEXMEM
+Z40 !s100 ObHdW67[n3]3zCYBGL?3;2
+Z41 I0Z_J<H>`[2RV77J3O1mW42
+Z42 Vj7FPAMKlGJKP_E2O^TdCX2
+R4
+Z43 w1578057319
+Z44 8C:/Users/Asus/Desktop/CA4/EXMEM.v
+Z45 FC:/Users/Asus/Desktop/CA4/EXMEM.v
+L0 2
+R8
+r1
+31
+Z46 !s90 -reportprogress|300|-work|work|C:/Users/Asus/Desktop/CA4/EXMEM.v|
+R10
+Z47 n@e@x@m@e@m
+Z48 !s108 1578400451.500000
+Z49 !s107 C:/Users/Asus/Desktop/CA4/EXMEM.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vIDEX
+Z50 !s100 K@_CPN_g1PG@MVU@4JBDV3
+Z51 IC;Mc^Z4_@U^kQ;WKhXLi>0
+Z52 Vj20XIzY:O1e6>^HICVe4`0
+R4
+Z53 w1578057318
+Z54 8C:/Users/Asus/Desktop/CA4/IDEX.v
+Z55 FC:/Users/Asus/Desktop/CA4/IDEX.v
+L0 2
+R8
+r1
+31
+Z56 !s90 -reportprogress|300|-work|work|C:/Users/Asus/Desktop/CA4/IDEX.v|
+R10
+Z57 n@i@d@e@x
+Z58 !s108 1578400451.335000
+Z59 !s107 C:/Users/Asus/Desktop/CA4/IDEX.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vIFID
+Z60 !s100 F^=Y@XN4c1>YaTDJkTX>;0
+Z61 I><8[hf7P]YH4dSdPW7W:U3
+Z62 VGz4=hPcJMKI2NdF0edl?=0
+R4
+Z63 w1578087535
+Z64 8C:/Users/Asus/Desktop/CA4/IFID.v
+Z65 FC:/Users/Asus/Desktop/CA4/IFID.v
+L0 2
+R8
+r1
+31
+Z66 !s90 -reportprogress|300|-work|work|C:/Users/Asus/Desktop/CA4/IFID.v|
+R10
+Z67 n@i@f@i@d
+Z68 !s108 1578400451.200000
+Z69 !s107 C:/Users/Asus/Desktop/CA4/IFID.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vinstruction_memory
+Z70 !s100 SCZecYCzQnh6DMF00aHBO3
+Z71 IUSP`8RBam`MaV@C0UnGG`0
+Z72 VzZHP4;XRAdC:V91j=@c`91
+R4
+Z73 w1578094282
+Z74 8C:/Users/Asus/Desktop/CA4/Instruction Memory.v
+Z75 FC:/Users/Asus/Desktop/CA4/Instruction Memory.v
+L0 2
+R8
+r1
+31
+Z76 !s90 -reportprogress|300|-work|work|C:/Users/Asus/Desktop/CA4/Instruction Memory.v|
+R10
+Z77 !s108 1578400450.819000
+Z78 !s107 C:/Users/Asus/Desktop/CA4/Instruction Memory.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMEMWB
+Z79 !s100 d<^R:EFW4S8H03?Qh86o[2
+Z80 IZzhiS=JaDLOA10KTM]QDJ2
+Z81 V5hBd8o_>J7]EPBe1?=c;[2
+R4
+Z82 w1578053627
+Z83 8C:/Users/Asus/Desktop/CA4/MEMWB.v
+Z84 FC:/Users/Asus/Desktop/CA4/MEMWB.v
+L0 2
+R8
+r1
+31
+Z85 !s90 -reportprogress|300|-work|work|C:/Users/Asus/Desktop/CA4/MEMWB.v|
+R10
+Z86 n@m@e@m@w@b
+!i10b 1
+!s85 0
+Z87 !s108 1578400451.738000
+Z88 !s107 C:/Users/Asus/Desktop/CA4/MEMWB.v|
+!s101 -O0
+vmips
+Z89 !s100 1X_FYjOd1_<9MfM7oE64X2
+Z90 I6aCI>hfZ4fjVZLWSeRFNP2
+Z91 V^lO[ZOI0I1e8M8GJjI9B:3
+R4
+Z92 w1578087618
+Z93 8C:/Users/Asus/Desktop/CA4/Mips.v
+Z94 FC:/Users/Asus/Desktop/CA4/Mips.v
+L0 2
+R8
+r1
+31
+Z95 !s90 -reportprogress|300|-work|work|C:/Users/Asus/Desktop/CA4/Mips.v|
+R10
+Z96 !s108 1578400451.086000
+Z97 !s107 C:/Users/Asus/Desktop/CA4/Mips.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vregister_file
+Z98 !s100 MTPRM<Q>jN5P7VKLSE3C<2
+Z99 IO?NNc55BahR3MR_Q=gD5X2
+Z100 V<Ig9APeYZf]X1M:mL`3Po0
+R4
+Z101 w1578084840
+Z102 8C:/Users/Asus/Desktop/CA4/Register File.v
+Z103 FC:/Users/Asus/Desktop/CA4/Register File.v
+L0 2
+R8
+r1
+31
+Z104 !s90 -reportprogress|300|-work|work|C:/Users/Asus/Desktop/CA4/Register File.v|
+R10
+Z105 !s108 1578400450.018000
+Z106 !s107 C:/Users/Asus/Desktop/CA4/Register File.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vsign_extend
+Z107 !s100 GXE2lG>zHN:hi<YOJNU[:3
+Z108 I7;U8S;DJLgmG5=lNbSPV[0
+Z109 V3c[n?[PieiJE=YOK5PalM1
+R4
+Z110 w1573813729
+Z111 8C:/Users/Asus/Desktop/CA4/Sign Extend.v
+Z112 FC:/Users/Asus/Desktop/CA4/Sign Extend.v
+L0 2
+R8
+r1
+31
+Z113 !s90 -reportprogress|300|-work|work|C:/Users/Asus/Desktop/CA4/Sign Extend.v|
+R10
+Z114 !s108 1578400450.194000
+Z115 !s107 C:/Users/Asus/Desktop/CA4/Sign Extend.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vTB
+!i10b 1
+Z116 !s100 l2ij`;f6`;hn8McI3Y7T13
+Z117 ITO^^PQIEDc=<b=_7FA<G02
+Z118 Vc<=32996OT2f`M7E_UhYX1
+R4
+Z119 w1578113945
+Z120 8C:/Users/Asus/Desktop/CA4/TB.v
+Z121 FC:/Users/Asus/Desktop/CA4/TB.v
+L0 2
+R8
+r1
+!s85 0
+31
+!s108 1578400451.864000
+!s107 C:/Users/Asus/Desktop/CA4/TB.v|
+Z122 !s90 -reportprogress|300|-work|work|C:/Users/Asus/Desktop/CA4/TB.v|
+!s101 -O0
+R10
+n@t@b

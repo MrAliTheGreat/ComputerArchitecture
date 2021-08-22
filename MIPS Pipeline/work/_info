@@ -1,0 +1,445 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\rasou\Desktop\CA\Projects\CA4
+vALU
+Z1 !s100 nJbZB181AzPnb;D<=zPf71
+Z2 IGI:bIbajD;Pbcz:WZFIoJ0
+Z3 VFoDP6SOo@ch>FD7z;2Of91
+Z4 dC:\Users\rasou\Desktop\CA\Projects\CA4 Last
+Z5 w1596546302
+Z6 8C:/Users/rasou/Desktop/CA/Projects/CA4 Last/ALU.v
+Z7 FC:/Users/rasou/Desktop/CA/Projects/CA4 Last/ALU.v
+L0 2
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/rasou/Desktop/CA/Projects/CA4 Last/ALU.v|
+Z10 o-work work -O0
+Z11 n@a@l@u
+Z12 !s108 1596546474.970000
+Z13 !s107 C:/Users/rasou/Desktop/CA/Projects/CA4 Last/ALU.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vALUcontroller
+Z14 !s100 @UQXeB_1=?j:Q:^]A]K5O0
+Z15 I3:dAf6DmS9:j8MUJSOC@S1
+Z16 V[D@M2;RUihNNTRzHeT9Bi0
+R4
+Z17 w1596517933
+Z18 8C:/Users/rasou/Desktop/CA/Projects/CA4 Last/ALU_Controller.v
+Z19 FC:/Users/rasou/Desktop/CA/Projects/CA4 Last/ALU_Controller.v
+L0 2
+R8
+r1
+31
+Z20 !s90 -reportprogress|300|-work|work|C:/Users/rasou/Desktop/CA/Projects/CA4 Last/ALU_Controller.v|
+R10
+Z21 n@a@l@ucontroller
+Z22 !s108 1596546475.070000
+Z23 !s107 C:/Users/rasou/Desktop/CA/Projects/CA4 Last/ALU_Controller.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vController
+Z24 !s100 XVBSHkD]VeOhk@GNX2;jU2
+Z25 I^H8;c`J75IMF57LeFVR1U2
+Z26 V2LXjTfjITn6BbNRP]j5IS0
+R4
+Z27 w1596532336
+Z28 8C:/Users/rasou/Desktop/CA/Projects/CA4 Last/Controller.v
+Z29 FC:/Users/rasou/Desktop/CA/Projects/CA4 Last/Controller.v
+L0 2
+R8
+r1
+31
+Z30 !s90 -reportprogress|300|-work|work|C:/Users/rasou/Desktop/CA/Projects/CA4 Last/Controller.v|
+R10
+Z31 n@controller
+Z32 !s108 1596546476.790000
+Z33 !s107 C:/Users/rasou/Desktop/CA/Projects/CA4 Last/Controller.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vDataMemory
+Z34 !s100 Y:MJ`:i<0gQkoSMV_^=]H0
+Z35 II]>dI?5>4oHWA<J8=KfO]2
+Z36 VR4:Cl1ILCc_LL_mOWd]nQ0
+R4
+Z37 w1596517606
+Z38 8C:/Users/rasou/Desktop/CA/Projects/CA4 Last/Data_Memory.v
+Z39 FC:/Users/rasou/Desktop/CA/Projects/CA4 Last/Data_Memory.v
+L0 2
+R8
+r1
+31
+Z40 !s90 -reportprogress|300|-work|work|C:/Users/rasou/Desktop/CA/Projects/CA4 Last/Data_Memory.v|
+R10
+Z41 n@data@memory
+Z42 !s108 1596546474.770000
+Z43 !s107 C:/Users/rasou/Desktop/CA/Projects/CA4 Last/Data_Memory.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vDataPath
+Z44 !s100 Ldk4HS5NHFLW;?J`chDHd3
+Z45 Io1N^]H_E:R6FT=G7Mf^BY0
+Z46 V`gm`=Do:k`a_J;DSgBekk1
+R4
+Z47 w1596539391
+Z48 8C:/Users/rasou/Desktop/CA/Projects/CA4 Last/DataPath.v
+Z49 FC:/Users/rasou/Desktop/CA/Projects/CA4 Last/DataPath.v
+L0 2
+R8
+r1
+31
+Z50 !s90 -reportprogress|300|-work|work|C:/Users/rasou/Desktop/CA/Projects/CA4 Last/DataPath.v|
+R10
+Z51 n@data@path
+Z52 !s108 1596546476.690000
+Z53 !s107 C:/Users/rasou/Desktop/CA/Projects/CA4 Last/DataPath.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vEX_MEM_Stage
+Z54 !s100 bW[[5W;Zhl9M6IUD53aSf1
+Z55 I?Y]C6kU022M`Z2embT3O;3
+Z56 VdjYIODVC=5>ShazQWK0za3
+R4
+Z57 w1596530627
+Z58 8C:/Users/rasou/Desktop/CA/Projects/CA4 Last/EX_MEM_Stage.v
+Z59 FC:/Users/rasou/Desktop/CA/Projects/CA4 Last/EX_MEM_Stage.v
+L0 2
+R8
+r1
+31
+Z60 !s90 -reportprogress|300|-work|work|C:/Users/rasou/Desktop/CA/Projects/CA4 Last/EX_MEM_Stage.v|
+R10
+Z61 n@e@x_@m@e@m_@stage
+Z62 !s108 1596546476.495000
+Z63 !s107 C:/Users/rasou/Desktop/CA/Projects/CA4 Last/EX_MEM_Stage.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vID_EX_Stage
+Z64 !s100 I7a5<K3BVE8WUKRK1mgiN3
+Z65 I2QihDFka2F31]1KPm=e:@0
+Z66 V=R>6I8SoW_LS9`eVk1BjE3
+R4
+Z67 w1596546150
+Z68 8C:/Users/rasou/Desktop/CA/Projects/CA4 Last/ID_EX_Stage.v
+Z69 FC:/Users/rasou/Desktop/CA/Projects/CA4 Last/ID_EX_Stage.v
+L0 2
+R8
+r1
+31
+Z70 !s90 -reportprogress|300|-work|work|C:/Users/rasou/Desktop/CA/Projects/CA4 Last/ID_EX_Stage.v|
+R10
+Z71 n@i@d_@e@x_@stage
+Z72 !s108 1596546475.470000
+Z73 !s107 C:/Users/rasou/Desktop/CA/Projects/CA4 Last/ID_EX_Stage.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vIF_ID_Stage
+Z74 !s100 ]zWjfoL_JLd=Tc;<>m;mF2
+Z75 IFRl7??mcV;e]Fom8l73Mb1
+Z76 V8`L=0eFADYJLK1o7LMC7O2
+R4
+Z77 w1596539412
+Z78 8C:/Users/rasou/Desktop/CA/Projects/CA4 Last/IF_ID_Stage.v
+Z79 FC:/Users/rasou/Desktop/CA/Projects/CA4 Last/IF_ID_Stage.v
+L0 2
+R8
+r1
+31
+Z80 !s90 -reportprogress|300|-work|work|C:/Users/rasou/Desktop/CA/Projects/CA4 Last/IF_ID_Stage.v|
+R10
+Z81 n@i@f_@i@d_@stage
+Z82 !s108 1596546475.170000
+Z83 !s107 C:/Users/rasou/Desktop/CA/Projects/CA4 Last/IF_ID_Stage.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vInstructionMemory
+Z84 !s100 lF=klc2[NLiO@IlBh24BX3
+Z85 IUAQeG4T<=BJCnf]Ph38j[0
+Z86 VND]Z`;SDbEeWK8?ZHCNOM2
+R4
+Z87 w1596546286
+Z88 8C:/Users/rasou/Desktop/CA/Projects/CA4 Last/Instruction_Memory.v
+Z89 FC:/Users/rasou/Desktop/CA/Projects/CA4 Last/Instruction_Memory.v
+L0 2
+R8
+r1
+31
+Z90 !s90 -reportprogress|300|-work|work|C:/Users/rasou/Desktop/CA/Projects/CA4 Last/Instruction_Memory.v|
+R10
+Z91 n@instruction@memory
+Z92 !s108 1596546474.680000
+Z93 !s107 C:/Users/rasou/Desktop/CA/Projects/CA4 Last/Instruction_Memory.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMEM_WB_Stage
+Z94 !s100 aVanIJPmY4X>Q4]6kkkU91
+Z95 IOi3U4:WaLX6Q[3YL6Jibc0
+Z96 VbBP6kMo>:B=QP;PWfVaNZ0
+R4
+Z97 w1596524346
+Z98 8C:/Users/rasou/Desktop/CA/Projects/CA4 Last/MEM_WB_Stage.v
+Z99 FC:/Users/rasou/Desktop/CA/Projects/CA4 Last/MEM_WB_Stage.v
+L0 2
+R8
+r1
+31
+Z100 !s90 -reportprogress|300|-work|work|C:/Users/rasou/Desktop/CA/Projects/CA4 Last/MEM_WB_Stage.v|
+R10
+Z101 n@m@e@m_@w@b_@stage
+Z102 !s108 1596546476.590000
+Z103 !s107 C:/Users/rasou/Desktop/CA/Projects/CA4 Last/MEM_WB_Stage.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMIPS_Pipeline
+Z104 !s100 0@;VDZ]:5M5PJQ@lifN>U2
+Z105 ITcZ:9QQ1J>l9]hzT?6zk;3
+Z106 VjAHc6BRAHFPTP_aRGlm7H2
+R4
+Z107 w1596532352
+Z108 8C:/Users/rasou/Desktop/CA/Projects/CA4 Last/MIPS_Pipeline.v
+Z109 FC:/Users/rasou/Desktop/CA/Projects/CA4 Last/MIPS_Pipeline.v
+L0 2
+R8
+r1
+31
+Z110 !s90 -reportprogress|300|-work|work|C:/Users/rasou/Desktop/CA/Projects/CA4 Last/MIPS_Pipeline.v|
+R10
+Z111 n@m@i@p@s_@pipeline
+!i10b 1
+!s85 0
+Z112 !s108 1596546476.890000
+Z113 !s107 C:/Users/rasou/Desktop/CA/Projects/CA4 Last/MIPS_Pipeline.v|
+!s101 -O0
+vReg1
+Z114 !s100 M^QDCc[Wa8`:]dee0YbeF2
+Z115 Io<VN7Jhm1Kg4hP4[cN7bP2
+Z116 V3O4XV0aRS]P1eWd[>RHGS0
+R4
+Z117 w1596521228
+Z118 8C:/Users/rasou/Desktop/CA/Projects/CA4 Last/Reg_1.v
+Z119 FC:/Users/rasou/Desktop/CA/Projects/CA4 Last/Reg_1.v
+L0 2
+R8
+r1
+31
+Z120 !s90 -reportprogress|300|-work|work|C:/Users/rasou/Desktop/CA/Projects/CA4 Last/Reg_1.v|
+R10
+Z121 n@reg1
+Z122 !s108 1596546475.570000
+Z123 !s107 C:/Users/rasou/Desktop/CA/Projects/CA4 Last/Reg_1.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vReg1_clear
+Z124 !s100 l>XhS09T3S5gzLiac8:oG2
+Z125 I:f?@==dYno5WWQY>AlT0W0
+Z126 VITRRlR96loj>gW33eIA[c1
+R4
+Z127 w1596521544
+Z128 8C:/Users/rasou/Desktop/CA/Projects/CA4 Last/Reg1_clear.v
+Z129 FC:/Users/rasou/Desktop/CA/Projects/CA4 Last/Reg1_clear.v
+L0 2
+R8
+r1
+31
+Z130 !s90 -reportprogress|300|-work|work|C:/Users/rasou/Desktop/CA/Projects/CA4 Last/Reg1_clear.v|
+R10
+Z131 n@reg1_clear
+Z132 !s108 1596546476.289000
+Z133 !s107 C:/Users/rasou/Desktop/CA/Projects/CA4 Last/Reg1_clear.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vReg2
+Z134 !s100 G]OblAD:iFI5IznUzFgm13
+Z135 I1X^b=hW:59_O`lH;Em]2L1
+Z136 V_CLGMDicA?<fe9YGdS?>M0
+R4
+Z137 w1596521262
+Z138 8C:/Users/rasou/Desktop/CA/Projects/CA4 Last/Reg_2.v
+Z139 FC:/Users/rasou/Desktop/CA/Projects/CA4 Last/Reg_2.v
+L0 2
+R8
+r1
+31
+Z140 !s90 -reportprogress|300|-work|work|C:/Users/rasou/Desktop/CA/Projects/CA4 Last/Reg_2.v|
+R10
+Z141 n@reg2
+Z142 !s108 1596546475.680000
+Z143 !s107 C:/Users/rasou/Desktop/CA/Projects/CA4 Last/Reg_2.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vReg26
+Z144 !s100 KPN=akZa3XH7IF`g7N5GG1
+Z145 If@YP=_SX>0hkPE_l2DeT90
+Z146 VEIPB5i`R<bBEKnBAG1AL02
+R4
+Z147 w1596521301
+Z148 8C:/Users/rasou/Desktop/CA/Projects/CA4 Last/Reg_26.v
+Z149 FC:/Users/rasou/Desktop/CA/Projects/CA4 Last/Reg_26.v
+L0 2
+R8
+r1
+31
+Z150 !s90 -reportprogress|300|-work|work|C:/Users/rasou/Desktop/CA/Projects/CA4 Last/Reg_26.v|
+R10
+Z151 n@reg26
+Z152 !s108 1596546475.932000
+Z153 !s107 C:/Users/rasou/Desktop/CA/Projects/CA4 Last/Reg_26.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vReg3
+Z154 !s100 9_`[kckg9c<S5f6H8]ljM3
+Z155 I1H`3M;fYE^E6oY:PVinP_1
+Z156 VURRdCzo`HXoQXQ322UGc=0
+R4
+Z157 w1596521330
+Z158 8C:/Users/rasou/Desktop/CA/Projects/CA4 Last/Reg_3.v
+Z159 FC:/Users/rasou/Desktop/CA/Projects/CA4 Last/Reg_3.v
+L0 2
+R8
+r1
+31
+Z160 !s90 -reportprogress|300|-work|work|C:/Users/rasou/Desktop/CA/Projects/CA4 Last/Reg_3.v|
+R10
+Z161 n@reg3
+Z162 !s108 1596546476.125000
+Z163 !s107 C:/Users/rasou/Desktop/CA/Projects/CA4 Last/Reg_3.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vReg32
+Z164 !s100 ?]@JTP2;n]E9TA_d4RWj21
+Z165 IhGD;;_[FCK7E;GR[AHYHl3
+Z166 VOcVOAC`VZkbJWh^=>Nk[B3
+R4
+Z167 w1596518528
+Z168 8C:/Users/rasou/Desktop/CA/Projects/CA4 Last/Reg_32.v
+Z169 FC:/Users/rasou/Desktop/CA/Projects/CA4 Last/Reg_32.v
+L0 2
+R8
+r1
+31
+Z170 !s90 -reportprogress|300|-work|work|C:/Users/rasou/Desktop/CA/Projects/CA4 Last/Reg_32.v|
+R10
+Z171 n@reg32
+Z172 !s108 1596546475.370000
+Z173 !s107 C:/Users/rasou/Desktop/CA/Projects/CA4 Last/Reg_32.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vReg32_clear
+Z174 !s100 nXFZKhN[376R_26`LEXnK0
+Z175 IZI;2NVzCRPE3BM<jo_UT62
+Z176 VkEBhc<2gko8eO80cDGMzT1
+R4
+Z177 w1596518419
+Z178 8C:/Users/rasou/Desktop/CA/Projects/CA4 Last/Reg32_clear.v
+Z179 FC:/Users/rasou/Desktop/CA/Projects/CA4 Last/Reg32_clear.v
+L0 2
+R8
+r1
+31
+Z180 !s90 -reportprogress|300|-work|work|C:/Users/rasou/Desktop/CA/Projects/CA4 Last/Reg32_clear.v|
+R10
+Z181 n@reg32_clear
+Z182 !s108 1596546475.270000
+Z183 !s107 C:/Users/rasou/Desktop/CA/Projects/CA4 Last/Reg32_clear.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vReg3_clear
+Z184 !s100 OEDZ<a3R^z]TDZ_l^3F=30
+Z185 I@HUY5QmKQ?;@giF]6zT=f3
+Z186 VQYbo2o`o1j>D@EMkl_AC@1
+R4
+Z187 w1596521556
+Z188 8C:/Users/rasou/Desktop/CA/Projects/CA4 Last/Reg3_clear.v
+Z189 FC:/Users/rasou/Desktop/CA/Projects/CA4 Last/Reg3_clear.v
+L0 2
+R8
+r1
+31
+Z190 !s90 -reportprogress|300|-work|work|C:/Users/rasou/Desktop/CA/Projects/CA4 Last/Reg3_clear.v|
+R10
+Z191 n@reg3_clear
+Z192 !s108 1596546476.390000
+Z193 !s107 C:/Users/rasou/Desktop/CA/Projects/CA4 Last/Reg3_clear.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vReg5
+Z194 !s100 @7DMoD8YCf<PQ=ODa`NnU3
+Z195 I2N^o73ePC[9[n][[c[m4T3
+Z196 V21`_fUX_9Xd?:Tj22dN1?3
+R4
+Z197 w1596521281
+Z198 8C:/Users/rasou/Desktop/CA/Projects/CA4 Last/Reg_5.v
+Z199 FC:/Users/rasou/Desktop/CA/Projects/CA4 Last/Reg_5.v
+L0 2
+R8
+r1
+31
+Z200 !s90 -reportprogress|300|-work|work|C:/Users/rasou/Desktop/CA/Projects/CA4 Last/Reg_5.v|
+R10
+Z201 n@reg5
+Z202 !s108 1596546475.805000
+Z203 !s107 C:/Users/rasou/Desktop/CA/Projects/CA4 Last/Reg_5.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vRegisterFile
+Z204 !s100 ?GF[S4A=11913Tm>b9Ah@3
+Z205 I]X1eLba247NOB9M@5UKAC0
+Z206 V>ekLn4KIkNkil<f`bYN:O1
+R4
+Z207 w1596535239
+Z208 8C:/Users/rasou/Desktop/CA/Projects/CA4 Last/Register_File.v
+Z209 FC:/Users/rasou/Desktop/CA/Projects/CA4 Last/Register_File.v
+L0 2
+R8
+r1
+31
+Z210 !s90 -reportprogress|300|-work|work|C:/Users/rasou/Desktop/CA/Projects/CA4 Last/Register_File.v|
+R10
+Z211 n@register@file
+Z212 !s108 1596546474.870000
+Z213 !s107 C:/Users/rasou/Desktop/CA/Projects/CA4 Last/Register_File.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vTestBench
+!i10b 1
+Z214 !s100 gEmOoXIda^T^>kfKn:;ee2
+Z215 I[ceZ21Ef?n0ZQFkKBDZLc0
+Z216 VH;VS]59WmQ>4a<zRibM9Z0
+R4
+Z217 w1596535501
+Z218 8C:/Users/rasou/Desktop/CA/Projects/CA4 Last/TestBench.v
+Z219 FC:/Users/rasou/Desktop/CA/Projects/CA4 Last/TestBench.v
+L0 2
+R8
+r1
+!s85 0
+31
+!s108 1596546476.995000
+!s107 C:/Users/rasou/Desktop/CA/Projects/CA4 Last/TestBench.v|
+Z220 !s90 -reportprogress|300|-work|work|C:/Users/rasou/Desktop/CA/Projects/CA4 Last/TestBench.v|
+!s101 -O0
+R10
+Z221 n@test@bench

@@ -1,0 +1,64 @@
+C:/Users/rasou/Desktop/CA/Projects/CA2/MIPS_Processor.v {1 {vlog -work work C:/Users/rasou/Desktop/CA/Projects/CA2/MIPS_Processor.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MIPS_Processor
+
+Top level modules:
+	MIPS_Processor
+
+} {} {}} C:/Users/rasou/Desktop/CA/Projects/CA2/Register_File.v {1 {vlog -work work C:/Users/rasou/Desktop/CA/Projects/CA2/Register_File.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module RegisterFile
+
+Top level modules:
+	RegisterFile
+
+} {} {}} C:/Users/rasou/Desktop/CA/Projects/CA2/TestBench.v {1 {vlog -work work C:/Users/rasou/Desktop/CA/Projects/CA2/TestBench.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module TestBench
+
+Top level modules:
+	TestBench
+
+} {} {}} C:/Users/rasou/Desktop/CA/Projects/CA2/ALU_Controller.v {1 {vlog -work work C:/Users/rasou/Desktop/CA/Projects/CA2/ALU_Controller.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ALUcontroller
+
+Top level modules:
+	ALUcontroller
+
+} {} {}} C:/Users/rasou/Desktop/CA/Projects/CA2/Contoller.v {1 {vlog -work work C:/Users/rasou/Desktop/CA/Projects/CA2/Contoller.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Controller
+
+Top level modules:
+	Controller
+
+} {} {}} C:/Users/rasou/Desktop/CA/Projects/CA2/Data_Memory.v {1 {vlog -work work C:/Users/rasou/Desktop/CA/Projects/CA2/Data_Memory.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module DataMemory
+
+Top level modules:
+	DataMemory
+
+} {} {}} C:/Users/rasou/Desktop/CA/Projects/CA2/ALU.v {1 {vlog -work work C:/Users/rasou/Desktop/CA/Projects/CA2/ALU.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} C:/Users/rasou/Desktop/CA/Projects/CA2/Instruction_Memory.v {1 {vlog -work work C:/Users/rasou/Desktop/CA/Projects/CA2/Instruction_Memory.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module InstructionMemory
+
+Top level modules:
+	InstructionMemory
+
+} {} {}} C:/Users/rasou/Desktop/CA/Projects/CA2/DataPath.v {1 {vlog -work work C:/Users/rasou/Desktop/CA/Projects/CA2/DataPath.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module DataPath
+
+Top level modules:
+	DataPath
+
+} {} {}}

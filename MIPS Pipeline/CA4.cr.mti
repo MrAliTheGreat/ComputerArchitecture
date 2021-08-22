@@ -1,0 +1,155 @@
+{C:/Users/rasou/Desktop/CA/Projects/CA4 Last/MIPS_Pipeline.v} {1 {vlog -work work {C:/Users/rasou/Desktop/CA/Projects/CA4 Last/MIPS_Pipeline.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MIPS_Pipeline
+
+Top level modules:
+	MIPS_Pipeline
+
+} {} {}} {C:/Users/rasou/Desktop/CA/Projects/CA4 Last/Reg_1.v} {1 {vlog -work work {C:/Users/rasou/Desktop/CA/Projects/CA4 Last/Reg_1.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Reg1
+
+Top level modules:
+	Reg1
+
+} {} {}} {C:/Users/rasou/Desktop/CA/Projects/CA4 Last/Reg3_clear.v} {1 {vlog -work work {C:/Users/rasou/Desktop/CA/Projects/CA4 Last/Reg3_clear.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Reg3_clear
+
+Top level modules:
+	Reg3_clear
+
+} {} {}} {C:/Users/rasou/Desktop/CA/Projects/CA4 Last/Reg_2.v} {1 {vlog -work work {C:/Users/rasou/Desktop/CA/Projects/CA4 Last/Reg_2.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Reg2
+
+Top level modules:
+	Reg2
+
+} {} {}} {C:/Users/rasou/Desktop/CA/Projects/CA4 Last/Reg_3.v} {1 {vlog -work work {C:/Users/rasou/Desktop/CA/Projects/CA4 Last/Reg_3.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Reg3
+
+Top level modules:
+	Reg3
+
+} {} {}} {C:/Users/rasou/Desktop/CA/Projects/CA4 Last/ALU.v} {1 {vlog -work work {C:/Users/rasou/Desktop/CA/Projects/CA4 Last/ALU.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} {C:/Users/rasou/Desktop/CA/Projects/CA4 Last/MEM_WB_Stage.v} {1 {vlog -work work {C:/Users/rasou/Desktop/CA/Projects/CA4 Last/MEM_WB_Stage.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MEM_WB_Stage
+
+Top level modules:
+	MEM_WB_Stage
+
+} {} {}} {C:/Users/rasou/Desktop/CA/Projects/CA4 Last/Data_Memory.v} {1 {vlog -work work {C:/Users/rasou/Desktop/CA/Projects/CA4 Last/Data_Memory.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module DataMemory
+
+Top level modules:
+	DataMemory
+
+} {} {}} {C:/Users/rasou/Desktop/CA/Projects/CA4 Last/Reg_32.v} {1 {vlog -work work {C:/Users/rasou/Desktop/CA/Projects/CA4 Last/Reg_32.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Reg32
+
+Top level modules:
+	Reg32
+
+} {} {}} {C:/Users/rasou/Desktop/CA/Projects/CA4 Last/Reg_5.v} {1 {vlog -work work {C:/Users/rasou/Desktop/CA/Projects/CA4 Last/Reg_5.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Reg5
+
+Top level modules:
+	Reg5
+
+} {} {}} {C:/Users/rasou/Desktop/CA/Projects/CA4 Last/ID_EX_Stage.v} {1 {vlog -work work {C:/Users/rasou/Desktop/CA/Projects/CA4 Last/ID_EX_Stage.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ID_EX_Stage
+
+Top level modules:
+	ID_EX_Stage
+
+} {} {}} {C:/Users/rasou/Desktop/CA/Projects/CA4 Last/Register_File.v} {1 {vlog -work work {C:/Users/rasou/Desktop/CA/Projects/CA4 Last/Register_File.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module RegisterFile
+
+Top level modules:
+	RegisterFile
+
+} {} {}} {C:/Users/rasou/Desktop/CA/Projects/CA4 Last/Controller.v} {1 {vlog -work work {C:/Users/rasou/Desktop/CA/Projects/CA4 Last/Controller.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Controller
+
+Top level modules:
+	Controller
+
+} {} {}} {C:/Users/rasou/Desktop/CA/Projects/CA4 Last/ALU_Controller.v} {1 {vlog -work work {C:/Users/rasou/Desktop/CA/Projects/CA4 Last/ALU_Controller.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ALUcontroller
+
+Top level modules:
+	ALUcontroller
+
+} {} {}} {C:/Users/rasou/Desktop/CA/Projects/CA4 Last/IF_ID_Stage.v} {1 {vlog -work work {C:/Users/rasou/Desktop/CA/Projects/CA4 Last/IF_ID_Stage.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module IF_ID_Stage
+
+Top level modules:
+	IF_ID_Stage
+
+} {} {}} {C:/Users/rasou/Desktop/CA/Projects/CA4 Last/EX_MEM_Stage.v} {1 {vlog -work work {C:/Users/rasou/Desktop/CA/Projects/CA4 Last/EX_MEM_Stage.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module EX_MEM_Stage
+
+Top level modules:
+	EX_MEM_Stage
+
+} {} {}} {C:/Users/rasou/Desktop/CA/Projects/CA4 Last/DataPath.v} {1 {vlog -work work {C:/Users/rasou/Desktop/CA/Projects/CA4 Last/DataPath.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module DataPath
+
+Top level modules:
+	DataPath
+
+} {} {}} {C:/Users/rasou/Desktop/CA/Projects/CA4 Last/TestBench.v} {1 {vlog -work work {C:/Users/rasou/Desktop/CA/Projects/CA4 Last/TestBench.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module TestBench
+
+Top level modules:
+	TestBench
+
+} {} {}} {C:/Users/rasou/Desktop/CA/Projects/CA4 Last/Reg32_clear.v} {1 {vlog -work work {C:/Users/rasou/Desktop/CA/Projects/CA4 Last/Reg32_clear.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Reg32_clear
+
+Top level modules:
+	Reg32_clear
+
+} {} {}} {C:/Users/rasou/Desktop/CA/Projects/CA4 Last/Instruction_Memory.v} {1 {vlog -work work {C:/Users/rasou/Desktop/CA/Projects/CA4 Last/Instruction_Memory.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module InstructionMemory
+
+Top level modules:
+	InstructionMemory
+
+} {} {}} {C:/Users/rasou/Desktop/CA/Projects/CA4 Last/Reg1_clear.v} {1 {vlog -work work {C:/Users/rasou/Desktop/CA/Projects/CA4 Last/Reg1_clear.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Reg1_clear
+
+Top level modules:
+	Reg1_clear
+
+} {} {}} {C:/Users/rasou/Desktop/CA/Projects/CA4 Last/Reg_26.v} {1 {vlog -work work {C:/Users/rasou/Desktop/CA/Projects/CA4 Last/Reg_26.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Reg26
+
+Top level modules:
+	Reg26
+
+} {} {}}

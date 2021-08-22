@@ -1,0 +1,127 @@
+{D:/Lessons/6th term/Computer Architecture/CA/4/DM.v} {1 {vlog -work work {D:/Lessons/6th term/Computer Architecture/CA/4/DM.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module DM
+
+Top level modules:
+	DM
+
+} {} {}} {D:/Lessons/6th term/Computer Architecture/CA/4/PC.v} {1 {vlog -work work {D:/Lessons/6th term/Computer Architecture/CA/4/PC.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module PC
+
+Top level modules:
+	PC
+
+} {} {}} {D:/Lessons/6th term/Computer Architecture/CA/4/FWRD.v} {1 {vlog -work work {D:/Lessons/6th term/Computer Architecture/CA/4/FWRD.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module FWRD
+
+Top level modules:
+	FWRD
+
+} {} {}} {D:/Lessons/6th term/Computer Architecture/CA/4/tb_datapath.v} {1 {vlog -work work {D:/Lessons/6th term/Computer Architecture/CA/4/tb_datapath.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module tb_datapath
+
+Top level modules:
+	tb_datapath
+
+} {} {}} {D:/Lessons/6th term/Computer Architecture/CA/4/M_WB.v} {1 {vlog -work work {D:/Lessons/6th term/Computer Architecture/CA/4/M_WB.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module M_WB
+
+Top level modules:
+	M_WB
+
+} {} {}} {D:/Lessons/6th term/Computer Architecture/CA/4/EX.v} {1 {vlog -work work {D:/Lessons/6th term/Computer Architecture/CA/4/EX.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module EX
+
+Top level modules:
+	EX
+
+} {} {}} {D:/Lessons/6th term/Computer Architecture/CA/4/ID.v} {1 {vlog -work work {D:/Lessons/6th term/Computer Architecture/CA/4/ID.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ID
+
+Top level modules:
+	ID
+
+} {} {}} {D:/Lessons/6th term/Computer Architecture/CA/4/DATAPATH.v} {1 {vlog -work work {D:/Lessons/6th term/Computer Architecture/CA/4/DATAPATH.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module DATAPATH
+
+Top level modules:
+	DATAPATH
+
+} {} {}} {D:/Lessons/6th term/Computer Architecture/CA/4/IF.v} {1 {vlog -work work {D:/Lessons/6th term/Computer Architecture/CA/4/IF.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module IF
+
+Top level modules:
+	IF
+
+} {} {}} {D:/Lessons/6th term/Computer Architecture/CA/4/RF.v} {1 {vlog -work work {D:/Lessons/6th term/Computer Architecture/CA/4/RF.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module RF
+
+Top level modules:
+	RF
+
+} {} {}} {D:/Lessons/6th term/Computer Architecture/CA/4/HZRD.v} {1 {vlog -work work {D:/Lessons/6th term/Computer Architecture/CA/4/HZRD.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module HZRD
+
+Top level modules:
+	HZRD
+
+} {} {}} {D:/Lessons/6th term/Computer Architecture/CA/4/EX_M.v} {1 {vlog -work work {D:/Lessons/6th term/Computer Architecture/CA/4/EX_M.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module EX_M
+
+Top level modules:
+	EX_M
+
+} {} {}} {D:/Lessons/6th term/Computer Architecture/CA/4/ID_EX.v} {1 {vlog -work work {D:/Lessons/6th term/Computer Architecture/CA/4/ID_EX.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ID_EX
+
+Top level modules:
+	ID_EX
+
+} {} {}} {D:/Lessons/6th term/Computer Architecture/CA/4/ALU.v} {1 {vlog -work work {D:/Lessons/6th term/Computer Architecture/CA/4/ALU.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} {D:/Lessons/6th term/Computer Architecture/CA/4/IF_ID.v} {1 {vlog -work work {D:/Lessons/6th term/Computer Architecture/CA/4/IF_ID.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module IF_ID
+
+Top level modules:
+	IF_ID
+
+} {} {}} {D:/Lessons/6th term/Computer Architecture/CA/4/CTRL.v} {1 {vlog -work work {D:/Lessons/6th term/Computer Architecture/CA/4/CTRL.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module CTRL
+
+Top level modules:
+	CTRL
+
+} {} {}} {D:/Lessons/6th term/Computer Architecture/CA/4/IM.v} {1 {vlog -work work {D:/Lessons/6th term/Computer Architecture/CA/4/IM.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module IM
+
+Top level modules:
+	IM
+
+} {} {}} {D:/Lessons/6th term/Computer Architecture/CA/4/MEM.v} {1 {vlog -work work {D:/Lessons/6th term/Computer Architecture/CA/4/MEM.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MEM
+
+Top level modules:
+	MEM
+
+} {} {}}

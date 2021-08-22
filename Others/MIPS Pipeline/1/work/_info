@@ -1,0 +1,364 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.0sp1
+vALU
+Z1 IV5EP6A`;jH7`Ph=Jf08Zl3
+Z2 VadTEmTO0_oPYl7[?c^Ghz1
+Z3 dD:\Lessons\6th term\Computer Architecture\CA\4
+Z4 w1591814787
+Z5 8D:/Lessons/6th term/Computer Architecture/CA/4/ALU.v
+Z6 FD:/Lessons/6th term/Computer Architecture/CA/4/ALU.v
+L0 2
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 o-work work -O0
+Z9 n@a@l@u
+Z10 !s100 Bk]^5`<<ij7aOeI=X=f`g1
+Z11 !s108 1591815590.927000
+Z12 !s107 D:/Lessons/6th term/Computer Architecture/CA/4/ALU.v|
+Z13 !s90 -reportprogress|300|-work|work|D:/Lessons/6th term/Computer Architecture/CA/4/ALU.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vCTRL
+Z14 I1C3]O4K1kZ4n7[DXYBK:j3
+Z15 VhOgh9nREdJYR[N@KbccOE1
+R3
+Z16 w1591814812
+Z17 8D:/Lessons/6th term/Computer Architecture/CA/4/CTRL.v
+Z18 FD:/Lessons/6th term/Computer Architecture/CA/4/CTRL.v
+L0 3
+R7
+r1
+31
+R8
+Z19 n@c@t@r@l
+Z20 !s100 kl?i9hIj_7@iV=X[RiJn63
+Z21 !s108 1591815591.127000
+Z22 !s107 D:/Lessons/6th term/Computer Architecture/CA/4/CTRL.v|
+Z23 !s90 -reportprogress|300|-work|work|D:/Lessons/6th term/Computer Architecture/CA/4/CTRL.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vDATAPATH
+Z24 INB]V:<NYjAPzDPZ3CdlBP0
+Z25 V3J9Bd]AB3`4h]ONV?_dh90
+R3
+Z26 w1591814880
+Z27 8D:/Lessons/6th term/Computer Architecture/CA/4/DATAPATH.v
+Z28 FD:/Lessons/6th term/Computer Architecture/CA/4/DATAPATH.v
+L0 2
+R7
+r1
+31
+R8
+Z29 n@d@a@t@a@p@a@t@h
+Z30 !s100 7X]DXHi[c96D3FnRAM4Bm2
+Z31 !s108 1591815591.283000
+Z32 !s107 D:/Lessons/6th term/Computer Architecture/CA/4/DATAPATH.v|
+Z33 !s90 -reportprogress|300|-work|work|D:/Lessons/6th term/Computer Architecture/CA/4/DATAPATH.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vDM
+Z34 IDclgGPF:WaXz2z[D5MSUZ1
+Z35 VhE0<FIUe>XCKllLIc15M@2
+R3
+Z36 w1591814919
+Z37 8D:/Lessons/6th term/Computer Architecture/CA/4/DM.v
+Z38 FD:/Lessons/6th term/Computer Architecture/CA/4/DM.v
+L0 2
+R7
+r1
+31
+R8
+n@d@m
+Z39 !s100 2D3?gekX81kccJ;mCOz>h2
+Z40 !s108 1591815591.467000
+Z41 !s107 D:/Lessons/6th term/Computer Architecture/CA/4/DM.v|
+Z42 !s90 -reportprogress|300|-work|work|D:/Lessons/6th term/Computer Architecture/CA/4/DM.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vEX
+Z43 Iz`SXdGU94PP;BUP[X[BX^1
+Z44 VIKX;SX?7kZMBo`UVKPhbb0
+R3
+Z45 w1591814988
+Z46 8D:/Lessons/6th term/Computer Architecture/CA/4/EX.v
+Z47 FD:/Lessons/6th term/Computer Architecture/CA/4/EX.v
+L0 2
+R7
+r1
+31
+R8
+n@e@x
+Z48 !s100 PIQSL4oJlhkiUk2k4A6SD3
+Z49 !s108 1591815591.689000
+Z50 !s107 D:/Lessons/6th term/Computer Architecture/CA/4/EX.v|
+Z51 !s90 -reportprogress|300|-work|work|D:/Lessons/6th term/Computer Architecture/CA/4/EX.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vEX_M
+Z52 I7FMTg6_QfF`;E]ZXc;``]2
+Z53 V7HbmC`ok>ZjzcY2EdcYZA0
+R3
+Z54 w1591815033
+Z55 8D:/Lessons/6th term/Computer Architecture/CA/4/EX_M.v
+Z56 FD:/Lessons/6th term/Computer Architecture/CA/4/EX_M.v
+L0 2
+R7
+r1
+31
+R8
+Z57 n@e@x_@m
+Z58 !s100 CR3]UR3H2O7ZkPH9C^:kX1
+Z59 !s108 1591815591.858000
+Z60 !s107 D:/Lessons/6th term/Computer Architecture/CA/4/EX_M.v|
+Z61 !s90 -reportprogress|300|-work|work|D:/Lessons/6th term/Computer Architecture/CA/4/EX_M.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vFWRD
+Z62 ICI=oLgY]CRA[<>@_bB4L<3
+Z63 VMKUKkBY]0j3nKn;M>z9U^3
+R3
+Z64 w1591815071
+Z65 8D:/Lessons/6th term/Computer Architecture/CA/4/FWRD.v
+Z66 FD:/Lessons/6th term/Computer Architecture/CA/4/FWRD.v
+L0 2
+R7
+r1
+31
+R8
+Z67 n@f@w@r@d
+Z68 !s100 >beIF6:T564ed<h7?;jA=1
+Z69 !s108 1591815592.001000
+Z70 !s107 D:/Lessons/6th term/Computer Architecture/CA/4/FWRD.v|
+Z71 !s90 -reportprogress|300|-work|work|D:/Lessons/6th term/Computer Architecture/CA/4/FWRD.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vHZRD
+Z72 I?:JSgWP5ThFKC8fn=Az3D3
+Z73 VPc5VKLI2E]jZ0Q>@M;c_F1
+R3
+Z74 w1591815078
+Z75 8D:/Lessons/6th term/Computer Architecture/CA/4/HZRD.v
+Z76 FD:/Lessons/6th term/Computer Architecture/CA/4/HZRD.v
+L0 2
+R7
+r1
+31
+R8
+Z77 n@h@z@r@d
+Z78 !s100 P_TBazc5[8Xg_oLb0VdPl3
+Z79 !s108 1591815592.157000
+Z80 !s107 D:/Lessons/6th term/Computer Architecture/CA/4/HZRD.v|
+Z81 !s90 -reportprogress|300|-work|work|D:/Lessons/6th term/Computer Architecture/CA/4/HZRD.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vID
+Z82 IlO7IC<iW>a3YlHB<DZZ1C0
+Z83 VZD?KONkQkaTY`<0GdG@ll1
+R3
+Z84 w1591815113
+Z85 8D:/Lessons/6th term/Computer Architecture/CA/4/ID.v
+Z86 FD:/Lessons/6th term/Computer Architecture/CA/4/ID.v
+L0 2
+R7
+r1
+31
+R8
+n@i@d
+Z87 !s100 dA9?<dHG86_1iRDjY^eVl1
+Z88 !s108 1591815592.327000
+Z89 !s107 D:/Lessons/6th term/Computer Architecture/CA/4/ID.v|
+Z90 !s90 -reportprogress|300|-work|work|D:/Lessons/6th term/Computer Architecture/CA/4/ID.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vID_EX
+Z91 I:UULK6;nlgG]E?EJi6h?`0
+Z92 V5MZ04deZ7gOIEO7]m5]IF2
+R3
+Z93 w1591815123
+Z94 8D:/Lessons/6th term/Computer Architecture/CA/4/ID_EX.v
+Z95 FD:/Lessons/6th term/Computer Architecture/CA/4/ID_EX.v
+L0 2
+R7
+r1
+31
+R8
+Z96 n@i@d_@e@x
+Z97 !s100 SbUn>c@PM>S[_mB0_Bh6i0
+Z98 !s108 1591815592.493000
+Z99 !s107 D:/Lessons/6th term/Computer Architecture/CA/4/ID_EX.v|
+Z100 !s90 -reportprogress|300|-work|work|D:/Lessons/6th term/Computer Architecture/CA/4/ID_EX.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vIF
+Z101 I>45=zfdFVFl9[z0NXOWOf1
+Z102 VSoKz]QkQ:M5eG4?Jh=JfJ0
+R3
+Z103 w1591815131
+Z104 8D:/Lessons/6th term/Computer Architecture/CA/4/IF.v
+Z105 FD:/Lessons/6th term/Computer Architecture/CA/4/IF.v
+L0 2
+R7
+r1
+31
+R8
+n@i@f
+Z106 !s100 fSifRg0KjAezQ`=i3?O^[3
+Z107 !s108 1591815592.648000
+Z108 !s107 D:/Lessons/6th term/Computer Architecture/CA/4/IF.v|
+Z109 !s90 -reportprogress|300|-work|work|D:/Lessons/6th term/Computer Architecture/CA/4/IF.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vIF_ID
+Z110 InjE30CXGi0Aa:5RzQj=UI2
+Z111 V=nO0>a9S>98;m?e86:TFe1
+R3
+Z112 w1591815140
+Z113 8D:/Lessons/6th term/Computer Architecture/CA/4/IF_ID.v
+Z114 FD:/Lessons/6th term/Computer Architecture/CA/4/IF_ID.v
+L0 2
+R7
+r1
+31
+R8
+Z115 n@i@f_@i@d
+Z116 !s100 hfF`baZ@IF0XPP5G;Y@JA0
+Z117 !s108 1591815592.864000
+Z118 !s107 D:/Lessons/6th term/Computer Architecture/CA/4/IF_ID.v|
+Z119 !s90 -reportprogress|300|-work|work|D:/Lessons/6th term/Computer Architecture/CA/4/IF_ID.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vIM
+!i10b 1
+!s100 =Uz^84YdZ10ezJ^]:b4n=2
+Io7h9cP0`Y:_zJAmW`6a>@3
+Z120 VDVBAVZh0d8kG]Y[HeN7oX1
+R3
+w1591816094
+Z121 8D:/Lessons/6th term/Computer Architecture/CA/4/IM.v
+Z122 FD:/Lessons/6th term/Computer Architecture/CA/4/IM.v
+L0 2
+R7
+r1
+!s85 0
+31
+!s108 1591816113.267000
+!s107 D:/Lessons/6th term/Computer Architecture/CA/4/IM.v|
+Z123 !s90 -reportprogress|300|-work|work|D:/Lessons/6th term/Computer Architecture/CA/4/IM.v|
+!s101 -O0
+R8
+n@i@m
+vM_WB
+Z124 IRa`BI4c9[FokOCznh3OO]2
+Z125 VQTbRQWX4zeYh1V[Z1a>J11
+R3
+Z126 w1591815421
+Z127 8D:/Lessons/6th term/Computer Architecture/CA/4/M_WB.v
+Z128 FD:/Lessons/6th term/Computer Architecture/CA/4/M_WB.v
+L0 2
+R7
+r1
+31
+R8
+Z129 n@m_@w@b
+Z130 !s100 _N<4]A5k3=L[6c3a6C`KI0
+Z131 !s108 1591815593.146000
+Z132 !s107 D:/Lessons/6th term/Computer Architecture/CA/4/M_WB.v|
+Z133 !s90 -reportprogress|300|-work|work|D:/Lessons/6th term/Computer Architecture/CA/4/M_WB.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMEM
+Z134 I85Bei1`]<DbNl^>n?EkE90
+Z135 V;Qi_3QH5OFOHegJJ9h;`T0
+R3
+Z136 w1591815444
+Z137 8D:/Lessons/6th term/Computer Architecture/CA/4/MEM.v
+Z138 FD:/Lessons/6th term/Computer Architecture/CA/4/MEM.v
+L0 2
+R7
+r1
+31
+R8
+Z139 n@m@e@m
+Z140 !s100 ;amhoDgI9bIj_>Gn^MFIc0
+Z141 !s108 1591815593.354000
+Z142 !s107 D:/Lessons/6th term/Computer Architecture/CA/4/MEM.v|
+Z143 !s90 -reportprogress|300|-work|work|D:/Lessons/6th term/Computer Architecture/CA/4/MEM.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vPC
+Z144 IPzaZNo:Cc?kAR`5n;i@851
+Z145 V=XzK7nDlRRj_eF2WYN?O23
+R3
+Z146 w1591815453
+Z147 8D:/Lessons/6th term/Computer Architecture/CA/4/PC.v
+Z148 FD:/Lessons/6th term/Computer Architecture/CA/4/PC.v
+L0 2
+R7
+r1
+31
+R8
+n@p@c
+Z149 !s100 <OEF0TS;:T>`E]Uc6]AmO3
+Z150 !s108 1591815593.510000
+Z151 !s107 D:/Lessons/6th term/Computer Architecture/CA/4/PC.v|
+Z152 !s90 -reportprogress|300|-work|work|D:/Lessons/6th term/Computer Architecture/CA/4/PC.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vRF
+Z153 IL^dhZlb@Y[TLZT4BcM2AR1
+Z154 V?1cnc=1hlnQE0AcQo`[4[3
+R3
+Z155 w1591815460
+Z156 8D:/Lessons/6th term/Computer Architecture/CA/4/RF.v
+Z157 FD:/Lessons/6th term/Computer Architecture/CA/4/RF.v
+L0 1
+R7
+r1
+31
+R8
+n@r@f
+Z158 !s100 9b<M[mA52P8C:1emobQH42
+Z159 !s108 1591815593.661000
+Z160 !s107 D:/Lessons/6th term/Computer Architecture/CA/4/RF.v|
+Z161 !s90 -reportprogress|300|-work|work|D:/Lessons/6th term/Computer Architecture/CA/4/RF.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vtb_datapath
+Z162 I;OGMQc_@hWUgT5^o9Y0ie2
+Z163 Vh<[XYB6fl`cz@cc[EhMEa0
+R3
+Z164 w1591815468
+Z165 8D:/Lessons/6th term/Computer Architecture/CA/4/tb_datapath.v
+Z166 FD:/Lessons/6th term/Computer Architecture/CA/4/tb_datapath.v
+L0 2
+R7
+r1
+31
+R8
+!i10b 1
+Z167 !s100 8SSN`zMo4[LllUFd:m5P[3
+!s85 0
+Z168 !s108 1591815593.804000
+Z169 !s107 D:/Lessons/6th term/Computer Architecture/CA/4/tb_datapath.v|
+Z170 !s90 -reportprogress|300|-work|work|D:/Lessons/6th term/Computer Architecture/CA/4/tb_datapath.v|
+!s101 -O0

@@ -1,0 +1,36 @@
+C:/Users/mehdi/Documents/memari/CA5/TB.v {1 {vlog -work work C:/Users/mehdi/Documents/memari/CA5/TB.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module TestBench
+
+Top level modules:
+	TestBench
+
+} {} {}} C:/Users/mehdi/Documents/memari/CA5/TOTAL.v {1 {vlog -work work C:/Users/mehdi/Documents/memari/CA5/TOTAL.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Total
+
+Top level modules:
+	Total
+
+} {} {}} C:/Users/mehdi/Documents/memari/CA5/CONTROLLER.v {1 {vlog -work work C:/Users/mehdi/Documents/memari/CA5/CONTROLLER.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Controller
+
+Top level modules:
+	Controller
+
+} {} {}} C:/Users/mehdi/Documents/memari/CA5/CACHE.v {1 {vlog -work work C:/Users/mehdi/Documents/memari/CA5/CACHE.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Cache
+
+Top level modules:
+	Cache
+
+} {} {}} C:/Users/mehdi/Documents/memari/CA5/MAINMEM.v {1 {vlog -work work C:/Users/mehdi/Documents/memari/CA5/MAINMEM.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MainMemory
+
+Top level modules:
+	MainMemory
+
+} {} {}}

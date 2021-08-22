@@ -1,0 +1,92 @@
+C:/Users/Asus/Desktop/CA4/Controller.v {1 {vlog -work work C:/Users/Asus/Desktop/CA4/Controller.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module controller
+
+Top level modules:
+	controller
+
+} {} {}} C:/Users/Asus/Desktop/CA4/EXMEM.v {1 {vlog -work work C:/Users/Asus/Desktop/CA4/EXMEM.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module EXMEM
+
+Top level modules:
+	EXMEM
+
+} {} {}} {C:/Users/Asus/Desktop/CA4/Register File.v} {1 {vlog -work work {C:/Users/Asus/Desktop/CA4/Register File.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module register_file
+
+Top level modules:
+	register_file
+
+} {} {}} C:/Users/Asus/Desktop/CA4/TB.v {1 {vlog -work work C:/Users/Asus/Desktop/CA4/TB.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module TB
+
+Top level modules:
+	TB
+
+} {} {}} C:/Users/Asus/Desktop/CA4/MEMWB.v {1 {vlog -work work C:/Users/Asus/Desktop/CA4/MEMWB.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MEMWB
+
+Top level modules:
+	MEMWB
+
+} {} {}} {C:/Users/Asus/Desktop/CA4/Sign Extend.v} {1 {vlog -work work {C:/Users/Asus/Desktop/CA4/Sign Extend.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module sign_extend
+
+Top level modules:
+	sign_extend
+
+} {} {}} C:/Users/Asus/Desktop/CA4/IDEX.v {1 {vlog -work work C:/Users/Asus/Desktop/CA4/IDEX.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module IDEX
+
+Top level modules:
+	IDEX
+
+} {} {}} {C:/Users/Asus/Desktop/CA4/Instruction Memory.v} {1 {vlog -work work {C:/Users/Asus/Desktop/CA4/Instruction Memory.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module instruction_memory
+
+Top level modules:
+	instruction_memory
+
+} {} {}} C:/Users/Asus/Desktop/CA4/IFID.v {1 {vlog -work work C:/Users/Asus/Desktop/CA4/IFID.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module IFID
+
+Top level modules:
+	IFID
+
+} {} {}} C:/Users/Asus/Desktop/CA4/Mips.v {1 {vlog -work work C:/Users/Asus/Desktop/CA4/Mips.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module mips
+
+Top level modules:
+	mips
+
+} {} {}} C:/Users/Asus/Desktop/CA4/ALU.v {1 {vlog -work work C:/Users/Asus/Desktop/CA4/ALU.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module alu
+
+Top level modules:
+	alu
+
+} {} {}} {C:/Users/Asus/Desktop/CA4/Data Memory.v} {1 {vlog -work work {C:/Users/Asus/Desktop/CA4/Data Memory.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module data_memory
+
+Top level modules:
+	data_memory
+
+} {} {}} {C:/Users/Asus/Desktop/CA4/ALU Control.v} {1 {vlog -work work {C:/Users/Asus/Desktop/CA4/ALU Control.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module alu_control
+
+Top level modules:
+	alu_control
+
+} {} {}}

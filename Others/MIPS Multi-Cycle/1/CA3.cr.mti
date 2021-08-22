@@ -1,0 +1,50 @@
+{E:/homework/comp arch/assignmet3-810196457-810196409/memory.v} {1 {vlog -work work {E:/homework/comp arch/assignmet3-810196457-810196409/memory.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module memory
+
+Top level modules:
+	memory
+
+} {} {}} {E:/homework/comp arch/assignmet3-810196457-810196409/acc&cy.v} {1 {vlog -work work {E:/homework/comp arch/assignmet3-810196457-810196409/acc&cy.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module accCy
+
+Top level modules:
+	accCy
+
+} {} {}} {E:/homework/comp arch/assignmet3-810196457-810196409/PDP-8.v} {1 {vlog -work work {E:/homework/comp arch/assignmet3-810196457-810196409/PDP-8.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module PDP_8
+
+Top level modules:
+	PDP_8
+
+} {} {}} {E:/homework/comp arch/assignmet3-810196457-810196409/ALU.v} {1 {vlog -work work {E:/homework/comp arch/assignmet3-810196457-810196409/ALU.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} {E:/homework/comp arch/assignmet3-810196457-810196409/datapath.v} {1 {vlog -work work {E:/homework/comp arch/assignmet3-810196457-810196409/datapath.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module datapath
+
+Top level modules:
+	datapath
+
+} {} {}} {E:/homework/comp arch/assignmet3-810196457-810196409/controller.v} {1 {vlog -work work {E:/homework/comp arch/assignmet3-810196457-810196409/controller.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module controller
+
+Top level modules:
+	controller
+
+} {} {}} {E:/homework/comp arch/assignmet3-810196457-810196409/test.v} {1 {vlog -work work {E:/homework/comp arch/assignmet3-810196457-810196409/test.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module test
+
+Top level modules:
+	test
+
+} {} {}}
